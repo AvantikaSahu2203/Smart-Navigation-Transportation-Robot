@@ -151,7 +151,7 @@ Smart-Navigation-Transportation-Robot/
 MIT License © 2025 Akshansh Khairwar
 
 ## Contact
-- Email: [aavantikasahu22035@gmail.com](mailto:avantikasahu220035@gmail.com)
+- Email: [avantikasahu22035@gmail.com](mailto:avantikasahu220035@gmail.com)
 - LinkedIn: [www.linkedin.com/in/avantikasahu](https://www.linkedin.com/in/avantikasahu)
 - GitHub: [AvantikaSahu2203](https://github.com/AvantikaSahu2203)
 ```
