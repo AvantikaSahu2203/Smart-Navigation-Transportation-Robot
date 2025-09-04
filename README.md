@@ -122,17 +122,29 @@ pip install requests speechrecognition pyaudio
 
 ## Repository Structure
 Smart-Navigation-Transportation-Robot/
+
 │
+
 ├── ESP_Robot_Motion/ # NodeMCU motion control code
+
 │ └── main_motion.ino
+
 ├── ESP_Robot_Crane/ # NodeMCU crane control code
+
 │ └── crane_control.ino
+
 ├── Voice_Command_Control/ # Python voice control script
+
 │ ├── voice_control.py
+
 │ └── requirements.txt
+
 ├── Hardware_Images/ # Photos of the robot
+
 ├── Demo_Videos/ # Demo video/GIF
+
 ├── Docs/ # Circuit diagram, schematics
+
 └── README.md # This file
 
 ## License
